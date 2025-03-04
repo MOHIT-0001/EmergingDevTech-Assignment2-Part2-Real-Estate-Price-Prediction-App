@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/EmergingDevTech-Assignment2-Part2-Real-Estate-Price-Prediction-App/static/css/main.f855e6bc.css",
+    "main.js": "/EmergingDevTech-Assignment2-Part2-Real-Estate-Price-Prediction-App/static/js/main.27e44ecd.js",
+    "static/media/logo.svg": "/EmergingDevTech-Assignment2-Part2-Real-Estate-Price-Prediction-App/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/EmergingDevTech-Assignment2-Part2-Real-Estate-Price-Prediction-App/index.html",
+    "main.f855e6bc.css.map": "/EmergingDevTech-Assignment2-Part2-Real-Estate-Price-Prediction-App/static/css/main.f855e6bc.css.map",
+    "main.27e44ecd.js.map": "/EmergingDevTech-Assignment2-Part2-Real-Estate-Price-Prediction-App/static/js/main.27e44ecd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.27e44ecd.js"
+  ]
+}
